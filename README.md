@@ -3,7 +3,7 @@
 > 安装
 
 ```
-npm install smaller-web
+npm install pretty-color
 ```
 
 > 使用
