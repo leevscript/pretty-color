@@ -34,7 +34,7 @@ import Color from 'pretty-color'
 + Examples
 ```js
 var color = new Color('#ccc')
-color.toRgb(0.3)  // => rgba(204,204,204,30)
+color.toRgb(0.3)  // => rgba(204,204,204,0.3)
 var color = new Color('red')
 color.toHex()     // => #FF0000
 ```
